@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **daniferna/daniferna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Daniferna's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniferna&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Daniferna's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniferna&count_private=true&hide=stars,prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
