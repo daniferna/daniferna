@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=daniferna&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![github-header-image](https://user-images.githubusercontent.com/17789206/167596452-839696a9-3660-4da9-81b3-d2adade00593.png)
