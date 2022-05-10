@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Fernández Aller</h1>
 <h3 align="center">A backend engineer from Spain</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daniferna" alt="daniferna" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daniferna" alt="daniferna" /></a> </p>
 
 - 🔭 I’m currently working on [Motive.co](https://www.motive.co)
 
