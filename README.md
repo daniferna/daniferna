@@ -19,4 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daniferna&show_icons=true&locale=en&count_private=true" alt="daniferna" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daniferna&dateFormat=d F[, Y]" alt="daniferna" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daniferna&date_format=d F[, Y]" alt="daniferna" /></p>
