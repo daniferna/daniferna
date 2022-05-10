@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![github-header-image](https://user-images.githubusercontent.com/17789206/167596452-839696a9-3660-4da9-81b3-d2adade00593.png)
+![Header](./github-header-image.png)
