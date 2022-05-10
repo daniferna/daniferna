@@ -1,5 +1,5 @@
-<h1 align="center"> Hello world!🙋‍👨‍💻</h1>
-<h3 align="center"> I'm Daniel Fernández Aller, a Software Engineer from Spain</h3>
+# Hello world!🙋‍👨‍💻
+## I'm Daniel Fernández Aller, a Software Engineer from Spain
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daniferna" alt="daniferna" /></a> </p>
 
