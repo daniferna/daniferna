@@ -3,8 +3,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daniferna" alt="daniferna" /></a> </p>
 
----
-
 ### :man_technologist: &nbsp;About Me :
 
 - 🔭 I’m currently working as a Backend Engineer, working together with an awesome team on the backend of [Motive.co](https://www.motive.co)
